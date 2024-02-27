@@ -1,0 +1,10 @@
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.csprojAssemblyReference.cache
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.Form1.resources
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.Properties.Resources.resources
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.csproj.GenerateResource.cache
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.csproj.CoreCompileInputs.cache
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\bin\Debug\RL_PD_v5.exe.config
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\bin\Debug\RL_PD_v5.exe
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\bin\Debug\RL_PD_v5.pdb
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.exe
+Z:\Programmesana\RL_PD_v5\RL_PD_v5\obj\Debug\RL_PD_v5.pdb

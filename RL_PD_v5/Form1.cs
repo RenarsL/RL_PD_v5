@@ -16,5 +16,34 @@ namespace RL_PD_v5
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int daudzums = Convert.ToInt32(textBox2.Text);
+            int banans = 105;
+            int sviestmaize = 75;
+            int abols = 55;
+            int kalorijasUzVienibu = 0;
+
+            if (Ediens.Text == "Banans")
+            {
+                kalorijasUzVienibu = banans;
+            }
+
+            if (Ediens.Text == "Sviestmaize")
+            {
+                kalorijasUzVienibu = sviestmaize;
+            }
+
+            if (Ediens.Text == "Abols")
+            {
+                kalorijasUzVienibu = abols;
+            }
+
+
+            double kopejasKalorijas = kalorijasUzVienibu * daudzums;
+            textBox3.Text = kopejasKalorijas.ToString();
+
+        }
     }
 }
